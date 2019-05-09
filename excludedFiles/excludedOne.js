@@ -1,2 +1,1 @@
-console.log("excluded one");
-console.log("changes");
+console.log('excluded one');
